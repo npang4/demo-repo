@@ -2,6 +2,6 @@
 
 Some description!
 
-## Subheade
+## Subheader
 
 Read this line!
